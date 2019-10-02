@@ -9,9 +9,9 @@ author_profile: true
 
 Relevant Courses Taken
 =======
-*Software Construction and User Interface
-*Advanced Programming Techniques
-*Software Architecture and Design
-*Design and Analysis of Algorithms
-*Software Testing
-*Fundamental Concepts in Computer Networking
+*Software Construction and User Interface  
+*Advanced Programming Techniques  
+*Software Architecture and Design  
+*Design and Analysis of Algorithms  
+*Software Testing  
+*Fundamental Concepts in Computer Networking  
