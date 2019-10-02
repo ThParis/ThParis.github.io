@@ -5,11 +5,16 @@ permalink: /courses/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+Relevant Courses Taken
+=======
+*Software Construction and User Interface
+*Advanced Programming Techniques
+*Software Architecture and Design
+*Design and Analysis of Algorithms
+*Software Testing
+*Fundamental Concepts in Computer Networking
 
 {% for post in site.courses reversed %}
   {% include archive-single.html %}
