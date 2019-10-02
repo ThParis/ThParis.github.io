@@ -3,7 +3,7 @@ main:
   - title: "Courses Taken"
     url: /courses/   
 
-  #- title: "Teaching"
+  #- title: "Teaching" 
     #url: /teaching/    
     
   - title: "Portfolio"
