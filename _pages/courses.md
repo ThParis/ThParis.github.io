@@ -15,7 +15,3 @@ Relevant Courses Taken
 *Design and Analysis of Algorithms
 *Software Testing
 *Fundamental Concepts in Computer Networking
-
-{% for post in site.courses reversed %}
-  {% include archive-single.html %}
-{% endfor %}
