@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Paris"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Thomas Paris"
 description              : &description "Software Engineer | Iowa State Univeristy Alum '20"
