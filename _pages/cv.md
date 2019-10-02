@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Iowa State University 2020 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Summer 2019: Collins Aerospace
+	*Software Engineering Intern
+	*Working in an Agile team
+	*Developing code in C and C++
+	*Working with team members to discover and fix bugs within the code
+	*Creating and updating software design documents
+	*Leading and engaging in project review meetings
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*Spring 2015 - Fall 2017 : Starbucks
+	*Barista
+	*Resolve customer questions and complaints, helping create top quality customer satisfaction
+	*Multitask to ensure high product standards and excellent customer service
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Java  
+*C
+*C++ 
+*Agile
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*Cyclone Alley Central Committee Co-Chair
+*Team Leader of Kairos (High School faith based ministry)
+*Director for Catholic Youth Camp (K-12 youth summer camp) 
+

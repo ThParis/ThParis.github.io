@@ -11,7 +11,7 @@ title                    : "Thomas Paris"
 title_separator          : "-"
 name                     : &name "Thomas Paris"
 description              : &description "Software Engineer | Iowa State Univeristy Alum '20"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thparis.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ThParis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
