@@ -9,7 +9,7 @@ Placeholder Description for Card Tracker.
 ![HearthstoneTracker] (/_portfolio/HearthstoneTracker.html)  
   
 <img src="/_portfolio/HearthstoneTracker.png"
-     alt="HearthstoneTracker"/>  
+     alt="HearthstoneTracker"/> 
 
 
   
