@@ -6,7 +6,7 @@ collection: portfolio
 
 Placeholder Description for Card Tracker.  
   
-![HearthstoneTracker] (/_portfolio/HearthstoneTracker.png)  
+![HearthstoneTracker] (_portfolio/HearthstoneTracker.html)  
   
 <img src="/_portfolio/HearthstoneTracker.png"
      alt="HearthstoneTracker"/> 
