@@ -4,5 +4,6 @@ excerpt: "Auxilary program to help Hearthstone players."
 collection: portfolio
 ---
 
-Placeholder Description for Card Tracker.
+Placeholder Description for Card Tracker.  
+
 ![HearthstoneTracker] (HearthstoneTracker.png)
