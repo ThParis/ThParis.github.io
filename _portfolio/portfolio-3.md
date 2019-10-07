@@ -10,4 +10,7 @@ Placeholder Description for Card Tracker.
   
 <img src="HearthstoneTracker.png"
      alt="HearthstoneTracker"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" /> 
+
+  
+  
