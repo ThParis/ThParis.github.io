@@ -8,4 +8,4 @@ MemeUp is a social mobile application that matches people based off of their hum
 being matched up they can chat and send each other jokes and memes. This project incorporated a SQL database  
 to store the account and profile information. A big focus of the project was to ensure constant private   
 communication between two people. MemeUp used Java for the back end and Android Studio and spring boot for the  
-front end UI.  
+front end UI.    
