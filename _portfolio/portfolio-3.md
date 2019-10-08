@@ -4,7 +4,7 @@ excerpt: "Auxilary program to help Hearthstone players."
 collection: portfolio
 ---
 
-Placeholder Description for Card Tracker. Test 
+Placeholder Description for Card Tracker. Test testington
   
 [HearthstoneTracker] (https://thparis.github.io/portfolio/HearthstoneTracker.html)  
   
