@@ -9,7 +9,7 @@ base game and tracks the cards left in the players deck and cards played by the 
 are able to draw a card they need and to help them determine what cards the opponent has left in their deck. This project was built by a 
 team of eight people, with four people working on the front end UI and four people, including myself, working on the back-end. During this 
 project I started to learn about connections from the back-end code to the UI using json files as well as using data scraping applications  
-to pull information from the base game.  
+to pull information from the base game.   
   
 [HearthstoneTracker](https://thparis.github.io/_portfolio/HearthstoneTracker.html)  
   
