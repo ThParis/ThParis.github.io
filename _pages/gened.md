@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Gen Ed courses:
+Gen Ed Courses:
+
 •	ENGL 150
 
 •	ENGL 250
