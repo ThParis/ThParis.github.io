@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-In response to Theranos case study:
+In response to Theranos case study: 
 
 test info hereIf I was a software engineer on the project, I would have worked hard to make the project a reality and 
 to make the products that were being advertised to the public a reality. I think that the problem lies in 
