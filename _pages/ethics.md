@@ -9,7 +9,7 @@ author_profile: true
 
 In response to Theranos case study: 
 
-test info hereIf I was a software engineer on the project, I would have worked hard to make the project a reality and 
+If I was a software engineer on the project, I would have worked hard to make the project a reality and 
 to make the products that were being advertised to the public a reality. I think that the problem lies in 
 the lies from the higher ups in Theranos, not in the ambition. If I was an engineer on the project I would 
 still try to live up to the ambition and create the best product I could. If I was a manager then I would try 
