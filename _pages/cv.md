@@ -39,7 +39,7 @@ Skills
   
 Service and leadership
 ======
-*Cyclone Alley Central Committee Member  
+*Cyclone Alley Central Committee Member   
 *Team Leader of Kairos (High School faith based ministry)  
 *Director for Catholic Youth Camp (K-12 youth summer camp)   
 
