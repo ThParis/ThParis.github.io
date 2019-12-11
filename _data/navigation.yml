@@ -15,10 +15,10 @@ main:
   - title: "Ethics Essay"
     url: /ethics/ 
     
-    - title: "Gen Ed Narrative"
+  - title: "Gen Ed Narrative"
     url: /gened/ 
     
-    - title: "Cumulative Reflection"
+  - title: "Cumulative Reflection"
     url: /reflection/ 
     
   #- title: "Guide"  
