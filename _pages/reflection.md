@@ -13,7 +13,7 @@ CR1)
 	with class projects that allowed us as students to create a project from our own 
 	ideas and see them to fruition. This gave me the opportunity to work with a project 
 	from its initial idea, develop every part of it, and then see it to the end. I had
-	the chance to see a problem, create a solution to it, create how each individual parts 
+	the chance to see a problem, create a solution to it, create how each individual parts
 	of the system would work together, create the design documents, the architecture, and 
 	the code. While doing this, in the class room I was learning about how these creations 
 	should be created and used. Every idea that is brought into creation has an impact on 
