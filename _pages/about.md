@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is a general front page and bio placeholder 	
+Software Engineer from Iowa State University's 2020 class. 

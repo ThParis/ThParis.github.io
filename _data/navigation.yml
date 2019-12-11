@@ -12,5 +12,7 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Ethics Essay"
+    url: /ethics/
   #- title: "Guide"
     #url: /markdown/
