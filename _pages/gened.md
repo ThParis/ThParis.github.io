@@ -9,17 +9,29 @@ author_profile: true
 
 Gen Ed courses:
 •	ENGL 150
+
 •	ENGL 250
+
 •	ENGL 260
+
 •	LIB 160
+
 •	HIST 221
+
 •	HIST 222
+
 •	ECON 102
+
 •	HDFS 276
+
 •	CHEM 167
+
 •	MATH 165
+
 •	MATH 166
+
 •	PHYS 221
+
 GE1:
                 My short-term goal is to secure a job in software engineering. My long-term goal 
 				is to continuously provide quality work and to move up into a project management role. 
